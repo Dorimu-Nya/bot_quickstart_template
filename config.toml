@@ -1,0 +1,9 @@
+[credential]
+app_id = ""
+secret = ""
+
+[listening]
+bind_addr = "0.0.0.0:3000"
+webhook_path = "/webhook"
+
+
